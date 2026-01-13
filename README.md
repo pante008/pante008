@@ -42,14 +42,6 @@ trials, free products, discounts, adding to cart). Enabled developers and PMs to
 
 ---
 
-### 📊 **Pipeline Rockstar**
-🔗 **[Project Not Yet Public, Ask Me!](#)**  
-💡 Designed predictive analytics pipelines for tech and finance clients (think data that actually *tells stories*). From messy data lakes to jaw-dropping Tableau dashboards.   
-🛠 Tools: Python, Postgres SQL, and a love for clean, scalable architecture.  
-🌟 Cut downtime for clients by **25%**, improved decisions for execs, and made magic ✨ happen with clear, actionable insights.
-
----
-
 ### 🚀 **Latest Adventures in DataScience/ML**
 1. 🏠 Checked housing-price predictions (spoiler: it’s a fun mix of Decision Trees, data wrangling, and Python wizardry).
 2. 🔍 Built image classification models (you’d be amazed how good concrete cracks look at 99.7% accuracy—thanks, CNN magic!).
