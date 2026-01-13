@@ -28,13 +28,13 @@ Welcome to my little corner of the internet! 🚀 I’m an **AI Enthusiast** and
 
 ### 🤖 **AI Wave: Tools That Empower**
 🔗 **[AI Internship Projects at GoDaddy, Ask Me!](#)**  
-💡 § Cap/Op Agent: Built and deployed full stack agentic AI application artifact on AWS (GitHub Actions, Docker, Katana PCP) to
+💡 Cap/Op Agent: Built and deployed full stack agentic AI application artifact on AWS (GitHub Actions, Docker, Katana PCP) to
 automate fetching and categorizing Jira tickets to improve accuracy and timeliness of capital expense quarterly report.
-§ Dunning Agent: Built end to end Hybrid Search RAG Agent for Support and Product Managers to efficiently retrieve
+💡 Dunning Agent: Built end to end Hybrid Search RAG Agent for Support and Product Managers to efficiently retrieve
 information on dunning policies and live resource fulfillment payload in natural language, reducing team dependency.
-§ Catalog Management Tool AI chatbot: Generated API request bodies for creating curated offers (adding free
+💡 Catalog Management Tool AI chatbot: Generated API request bodies for creating curated offers (adding free
 trials, free products, discounts, adding to cart). Enabled developers and PMs to test, promote across environment.
-§ Slackbot: Automated Monthly Product Creation Workflow Report from Jira, improving metrics accuracy.
+💡 Slackbot: Automated Monthly Product Creation Workflow Report from Jira, improving metrics accuracy.
 
 🚀 Powered by JIRA, Slack, GitHub, Team documentation, Open API, AWS Bedrock and a sprinkle of “let me try this cool thing with AI.”  Implemented Microservices, RESTful APIs, SonarQube, Spring Boot, Google Oauth 2.0/SSO auth, Node.js, Express
 🌟 **Impact**: Boosted workflows, cut manual effort for care, product and tech teams by **30%+**, and had a blast building smarter agents.
