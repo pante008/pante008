@@ -1,66 +1,54 @@
-# 👾 Hey there, I’m Ekta! 🌟 
+# Hi, I'm Ekta Pant 👋
 
-Welcome to my little corner of the internet! 🚀 I’m an **AI Enthusiast** and **Software Engineer**, driven by a heady mix of **curiosity**, **creativity**, and an **unquenchable thirst for innovation**. Whether I’m crunching numbers, building sleek pipelines, or giving Slackbots an attitude, I’m all about turning complex tech into elegant, impactful solutions for real-world problems.
+I’m an MS Information Systems graduate student at Northeastern University (Seattle) with a software engineering + analytics background across AI, full-stack development, UX, and data systems. I build products that turn complex workflows into practical, measurable outcomes.
 
----
+## 🌟 Featured Projects
 
-## 🌟 A Quick Peek Into My World
+### 1) The Architectural Ledger — AI-Assisted UX Case Study
+**Repo:** [pante008/UX_design_AI_Assisted-Ops_Design_Portfolio](https://github.com/pante008/UX_design_AI_Assisted-Ops_Design_Portfolio)
+- End-to-end UX case study for operations workflows with interviews, heuristics, prototyping, and usability testing
+- Delivered **23 hi-fi screens** across core workflows
+- Achieved **8.89/10 usability score** and **100% task success** in moderated sessions
 
-🎓 **Dual Master’s Extraordinaire: Where Data, Tech, and Business Collide**
-- **MS in Information Systems @ Northeastern University, Seattle** | Global Scholar Award 🏆 | GPA: 3.8 🤓  
-- **MS in Financial Markets & Management @ EDHEC Business School, France** | EDHEC Excellence Scholarship | GPA: 3.5 💼  
-- Honored with #GirlBoss energy 🏅 (Govt of India SHE Inspire Award for A-Levels).
+### 2) Visitor Intelligence Platform
+**Repo:** [pante008/FSQUAD26-PNWER](https://github.com/pante008/FSQUAD26-PNWER)
+- Built a data pipeline for synthetic visitor generation, quality validation, anomaly detection, dbt transformations, and reporting
+- Integrated Python-based validation + dbt modeling for analytics-ready outputs
 
-👩‍💻 **What Gets Me Buzzing:**
-- **AI Wizardry 🤖**: If there’s data, I’m there! Predictive models, transformers, and TensorFlow fun—a regular day in my world.
-- **Code Meets Cloud ☁️**: Deploying magic with AWS, Docker, and CI/CD pipelines. Smooth, seamless, and scalable, baby!
-- **Storytelling with Data 📊**: Turning raw data into groundbreaking insights via Tableau, Python, and top-notch SQL wizardry.
-- **Bringing Ideas to Life 💡**: Debugging, brainstorming, collaborating—there’s nothing I love more than creating tech that matters.
+### 3) My Blog — Full-Stack React + Supabase Application
+**Repo:** [pante008/FinalProject](https://github.com/pante008/FinalProject)
+- Developed a full CRUD blog platform with post management, comments, search, sorting, and dynamic routing
+- Built with React, Vite, Supabase, and modern component architecture
 
-🌐 **Fun Facts About Me (a.k.a. Why You Should Keep Scrolling):**
-- I’ve lived and worked across **India**, **France**, **Luxembourg**, and the **U.S.**, which means I bring a global twist to everything I do. 🌍 ✈️  
-- A certified **Scrum Master**, I can juggle sprints, stakeholders, AND coffee like a pro. ☕🚴
-- Passionate for Finance (I am Chartered Financial Analyst Level 1 cleared)
+### 4) Book Data Dashboard
+**Repo:** [pante008/Book_Datadashboard](https://github.com/pante008/Book_Datadashboard)
+- Interactive dashboard using Open Library API with filtering, search, and genre visualization
+- Implemented React Router detail pages and reusable dashboard components
 
----
+### 5) Library Management System (Java)
+**Repo:** [pante008/Library_Management_System_Application](https://github.com/pante008/Library_Management_System_Application)
+- Desktop application with Java Swing + MySQL for book lending, borrower management, and reporting
+- Implemented role-based login flows and transaction management features
 
-## 🛠️ What I’m Building (and Excited About!)
+### 6) Student Enrollment Database (T-SQL)
+**Repo:** [pante008/Student_Enrollment_Database](https://github.com/pante008/Student_Enrollment_Database)
+- Designed a complete SQL Server schema with constraints, views, stored procedures, and encrypted credential fields
+- Added course registration + waitlist logic with transactional handling
 
-### 🤖 **AI Wave: Tools That Empower**
-🔗 **[AI Internship Projects at GoDaddy, Ask Me!](#)**  
-💡 Cap/Op Agent: Built and deployed full stack agentic AI application artifact on AWS (GitHub Actions, Docker, Katana PCP) to
-automate fetching and categorizing Jira tickets to improve accuracy and timeliness of capital expense quarterly report.
-💡 Dunning Agent: Built end to end Hybrid Search RAG Agent for Support and Product Managers to efficiently retrieve
-information on dunning policies and live resource fulfillment payload in natural language, reducing team dependency.
-💡 Catalog Management Tool AI chatbot: Generated API request bodies for creating curated offers (adding free
-trials, free products, discounts, adding to cart). Enabled developers and PMs to test, promote across environment.
-💡 Slackbot: Automated Monthly Product Creation Workflow Report from Jira, improving metrics accuracy.
+## 🛠️ Core Skills
 
-🚀 Powered by JIRA, Slack, GitHub, Team documentation, Open API, AWS Bedrock and a sprinkle of “let me try this cool thing with AI.”  Implemented Microservices, RESTful APIs, SonarQube, Spring Boot, Google Oauth 2.0/SSO auth, Node.js, Express
-🌟 **Impact**: Boosted workflows, cut manual effort for care, product and tech teams by **30%+**, and had a blast building smarter agents.
+**Languages & Data:** Python, Java, JavaScript, SQL (T-SQL, MySQL, PostgreSQL)  
+**Frameworks & Tools:** React, Vite, Supabase, dbt, GitHub Actions, Docker, Tableau  
+**Focus Areas:** AI-assisted product development, full-stack apps, UX research/prototyping, analytics engineering
 
+## 🎓 Education
+- **MS, Information Systems** — Northeastern University, Seattle (GPA: 3.8)
+- **MS, Financial Markets & Management** — EDHEC Business School, France (GPA: 3.5)
 
----
-
-### 🚀 **Latest Adventures in DataScience/ML**
-1. 🏠 Checked housing-price predictions (spoiler: it’s a fun mix of Decision Trees, data wrangling, and Python wizardry).
-2. 🔍 Built image classification models (you’d be amazed how good concrete cracks look at 99.7% accuracy—thanks, CNN magic!).
-
-### 💡 **Java Library Management System** 
-💡 Built a desktop application for managing library data using Java, JDBC, and Swing GUI. Designed features like real-time availability tracking, automated overdue notifications, and user-friendly admin controls for managing book records and user activity. Implemented robust data validation and secure database interactions in SQL, ensuring accuracy and reliability.
-🌟 Impact: Simplified library operations while enhancing user experience with intuitive design and functionality.
-
----
-
-## 🌈 My Mission: Ideas + Impact 🚀
-My goals are simple: **keep learning, keep building, keep making things better.** Whether it’s scaling pipelines, crafting intuitive AI models, or simplifying workflows that make people go “wow,” I’m here to create tech with real purpose. 🦄
-
-If you vibe with that energy, let’s connect, chat, and see if we can team up on something epic! 
+## 🤝 Let’s Connect
+- LinkedIn: [linkedin.com/in/ekta-pant](https://www.linkedin.com/in/ekta-pant)
+- GitHub: [github.com/pante008](https://github.com/pante008)
+- Email: pant.e@northeastern.edu
 
 ---
-
-## 🎨 Connect With Me ⬇️  
-
-🚀 **Let’s Collaborate:** Open to AI, cloud, and software projects 🔗  
-📫 **How to Reach Me:** [pant.e@northeastern.edu/www.linkedin.com/in/ekta-pant]  
-💬 **Fun Chat Prompts:** Let’s talk about AI, product, music, food and something fun!  
+If you're hiring for software, AI, or data-focused roles, I’d love to connect.
